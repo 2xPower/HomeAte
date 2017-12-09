@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\TwicePower.Homeate\\TwicePower.Homeate.csproj",
-      "projectName": "TwicePower.Homeate",
-      "projectPath": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\TwicePower.Homeate\\TwicePower.Homeate.csproj",
+      "projectUniqueName": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\Twicepower.Homeate.Contracts.csproj",
+      "projectName": "Twicepower.Homeate.Contracts",
+      "projectPath": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\Twicepower.Homeate.Contracts.csproj",
       "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\TwicePower.Homeate\\obj\\",
+      "outputPath": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
