@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Knx\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="KnxNet.Core" Version="0.0.1-build10122" />
+  </ItemGroup>
+
+</Project>

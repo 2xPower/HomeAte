@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "50fedd7dd9d927f65cfe30129a08aeb1235dc2e4"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "TwicePower.Homeate/1.0.0": {
+        "dependencies": {
+          "KnxNet.Core": "0.0.1-build10122"
+        },
+        "runtime": {
+          "TwicePower.Homeate.dll": {}
+        }
+      },
+      "KnxNet.Core/0.0.1-build10122": {
+        "runtime": {
+          "lib/netcoreapp1.0/KnxNet.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwicePower.Homeate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KnxNet.Core/0.0.1-build10122": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J0RKXEiHXazQXo7rX+vJDgcnukgAXxVwlytFrertDt16xruKhdyTPk1koXz6mTz/bwmmtkHY3Y09PimS34HtKQ==",
+      "path": "knxnet.core/0.0.1-build10122",
+      "hashPath": "knxnet.core.0.0.1-build10122.nupkg.sha512"
+    }
+  }
+}
