@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwicePower.Homeate.Frontend
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwicePower.Homeate", "TwicePower.Homeate\TwicePower.Homeate.csproj", "{625A3B9C-DE02-4524-8384-B92AD9660EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twicepower.Homeate.Contracts", "Twicepower.Homeate.Contracts\Twicepower.Homeate.Contracts.csproj", "{DEDBE400-D16D-4417-AEF5-CCC858011C64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twicepower.Homeate.Contracts", "Twicepower.Homeate.Contracts\Twicepower.Homeate.Contracts.csproj", "{DEDBE400-D16D-4417-AEF5-CCC858011C64}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KNXLibCore", "KNXLibCore\KNXLibCore.csproj", "{5EC691AE-D35C-409D-9EAE-8FDA57AA55CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwicePower.Homeate.Binding.Knx", "TwicePower.Homeate.Binding.Knx\TwicePower.Homeate.Binding.Knx.csproj", "{6DD5ACEE-92DC-4027-AD09-68216993F8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwicePower.Homeate.Binding.Knx.Testing", "TwicePower.Homeate.Binding.Knx.Testing\TwicePower.Homeate.Binding.Knx.Testing.csproj", "{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +31,14 @@ Global
 		{DEDBE400-D16D-4417-AEF5-CCC858011C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEDBE400-D16D-4417-AEF5-CCC858011C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEDBE400-D16D-4417-AEF5-CCC858011C64}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5EC691AE-D35C-409D-9EAE-8FDA57AA55CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5EC691AE-D35C-409D-9EAE-8FDA57AA55CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5EC691AE-D35C-409D-9EAE-8FDA57AA55CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5EC691AE-D35C-409D-9EAE-8FDA57AA55CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

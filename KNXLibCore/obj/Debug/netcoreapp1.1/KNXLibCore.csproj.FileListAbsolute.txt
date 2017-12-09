@@ -1,9 +1,0 @@
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\bin\Debug\netcoreapp1.1\KNXLibCore.deps.json
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\bin\Debug\netcoreapp1.1\KNXLibCore.dll
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\bin\Debug\netcoreapp1.1\KNXLibCore.pdb
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\obj\Debug\netcoreapp1.1\KNXLibCore.csprojResolveAssemblyReference.cache
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\obj\Debug\netcoreapp1.1\KNXLibCore.csproj.CoreCompileInputs.cache
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\obj\Debug\netcoreapp1.1\KNXLibCore.AssemblyInfoInputs.cache
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\obj\Debug\netcoreapp1.1\KNXLibCore.AssemblyInfo.cs
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\obj\Debug\netcoreapp1.1\KNXLibCore.dll
-C:\Users\simon\Downloads\knx.netcore-master\src\KNXLibCore\obj\Debug\netcoreapp1.1\KNXLibCore.pdb

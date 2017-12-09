@@ -7,3 +7,16 @@ c:\users\simon\Source\Repos\TwicePower.Homeate\TwicePower.Homeate\obj\Debug\netc
 c:\users\simon\Source\Repos\TwicePower.Homeate\TwicePower.Homeate\bin\Debug\netcoreapp2.0\TwicePower.Homeate.pdb
 c:\users\simon\Source\Repos\TwicePower.Homeate\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.dll
 c:\users\simon\Source\Repos\TwicePower.Homeate\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.pdb
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\bin\Debug\netcoreapp2.0\TwicePower.Homeate.deps.json
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\bin\Debug\netcoreapp2.0\TwicePower.Homeate.dll
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\bin\Debug\netcoreapp2.0\TwicePower.Homeate.pdb
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\bin\Debug\netcoreapp2.0\TwicePower.Homeate.Binding.Knx.dll
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\bin\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.dll
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\bin\Debug\netcoreapp2.0\TwicePower.Homeate.Binding.Knx.pdb
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\bin\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.pdb
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.csprojResolveAssemblyReference.cache
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.csproj.CoreCompileInputs.cache
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.AssemblyInfoInputs.cache
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.AssemblyInfo.cs
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.dll
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate\obj\Debug\netcoreapp2.0\TwicePower.Homeate.pdb

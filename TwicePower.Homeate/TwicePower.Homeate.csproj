@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Knx\" />
+    <ProjectReference Include="..\TwicePower.Homeate.Binding.Knx\TwicePower.Homeate.Binding.Knx.csproj" />
+    <ProjectReference Include="..\Twicepower.Homeate.Contracts\Twicepower.Homeate.Contracts.csproj" />
   </ItemGroup>
 
 </Project>

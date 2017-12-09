@@ -1,0 +1,9 @@
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\bin\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.deps.json
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\bin\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.dll
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\bin\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.pdb
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\obj\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\obj\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\obj\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.AssemblyInfoInputs.cache
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\obj\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.AssemblyInfo.cs
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\obj\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.dll
+C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\Twicepower.Homeate.Contracts\obj\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.pdb
