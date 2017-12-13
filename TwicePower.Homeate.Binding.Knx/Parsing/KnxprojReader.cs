@@ -11,6 +11,11 @@ namespace TwicePower.Homeate.Binding.Knx.Parsing
     {
         const string KnxMasterXml = "knx_master.xml";
 
+        /// <summary>
+        /// Reads the ZIP, decomresses in memory and extracts the master, project and installtions details. Catalog info is ignored for now.
+        /// </summary>
+        /// <param name="file"></param>
+        /// <returns></returns>
         public static v13.KNX ReadKnxproject(Stream file)
         {
             System.IO.Compression.ZipArchive z = new System.IO.Compression.ZipArchive(file);

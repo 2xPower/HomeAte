@@ -669,9 +669,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\Twicepower.Homeate.Contracts.csproj",
       "projectName": "Twicepower.Homeate.Contracts",

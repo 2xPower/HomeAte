@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Twicepower.Homeate.Contracts;
 
-namespace TwicePower.Homeate.Bdingin.Knx
+namespace TwicePower.Homeate.Bidingin.Knx
 {
     public class KnxBinding : Twicepower.Homeate.Contracts.Binding
     {
@@ -32,7 +32,7 @@ namespace TwicePower.Homeate.Bdingin.Knx
 
         private void Connected()
         {
-            _tcs.SetResult(false);
+            _tcs.SetResult(true);
         }
 
         protected override void InitCore()
@@ -45,21 +45,20 @@ namespace TwicePower.Homeate.Bdingin.Knx
             this._knxConnection = connection;
         }
 
-        protected override void ConnectCore()
+        protected override async Task ConnectCore()
         {
             _tcs = new TaskCompletionSource<bool>();
             this._knxConnection.Connect();
-            _tcs.Task.ConfigureAwait(false).GetAwaiter().GetResult();
+            await _tcs.Task.ConfigureAwait(false);
         }
 
-        protected override void DisconnectCore()
+        protected override async Task DisconnectCore()
         {
             _tcs = new TaskCompletionSource<bool>();
             this._knxConnection.Disconnect();
-            _tcs.Task.ConfigureAwait(false).GetAwaiter().GetResult();
+            await _tcs.Task.ConfigureAwait(false);
         }
 
         #endregion
-
     }
 }

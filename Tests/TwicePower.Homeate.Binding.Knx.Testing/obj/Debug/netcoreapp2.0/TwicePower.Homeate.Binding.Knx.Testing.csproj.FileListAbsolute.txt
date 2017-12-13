@@ -11,7 +11,6 @@ C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Bindin
 C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Binding.Knx.Testing\bin\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.dll
 C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Binding.Knx.Testing\bin\Debug\netcoreapp2.0\TwicePower.Homeate.Binding.Knx.pdb
 C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Binding.Knx.Testing\bin\Debug\netcoreapp2.0\Twicepower.Homeate.Contracts.pdb
-C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Binding.Knx.Testing\obj\Debug\netcoreapp2.0\TwicePower.Homeate.Binding.Knx.Testing.csprojResolveAssemblyReference.cache
 C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Binding.Knx.Testing\obj\Debug\netcoreapp2.0\TwicePower.Homeate.Binding.Knx.Testing.csproj.CoreCompileInputs.cache
 C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Binding.Knx.Testing\obj\Debug\netcoreapp2.0\TwicePower.Homeate.Binding.Knx.Testing.AssemblyInfoInputs.cache
 C:\Users\simon\Source\Repos\TwicePower.Homeate\HomeAte\TwicePower.Homeate.Binding.Knx.Testing\obj\Debug\netcoreapp2.0\TwicePower.Homeate.Binding.Knx.Testing.AssemblyInfo.cs

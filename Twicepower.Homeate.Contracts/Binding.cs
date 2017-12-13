@@ -57,7 +57,7 @@ namespace Twicepower.Homeate.Contracts
             else throw new Exception("the binding is net yet initialized (expected state is disconnected).");
         }
 
-        protected abstract void ConnectCore();
+        protected abstract Task ConnectCore();
 
         public async Task Disconnect()
         {
@@ -77,6 +77,6 @@ namespace Twicepower.Homeate.Contracts
             else throw new Exception("the binding is not connected.");
         }
 
-        protected abstract void DisconnectCore();
+        protected abstract Task DisconnectCore();
     }
 }

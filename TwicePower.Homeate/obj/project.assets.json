@@ -4041,9 +4041,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\TwicePower.Homeate\\TwicePower.Homeate.csproj",
       "projectName": "TwicePower.Homeate",
@@ -4068,11 +4065,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\Twicepower.Homeate.Contracts.csproj": {
-              "projectPath": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\Twicepower.Homeate.Contracts.csproj"
-            },
             "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\TwicePower.Homeate.Binding.Knx\\TwicePower.Homeate.Binding.Knx.csproj": {
               "projectPath": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\TwicePower.Homeate.Binding.Knx\\TwicePower.Homeate.Binding.Knx.csproj"
+            },
+            "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\Twicepower.Homeate.Contracts.csproj": {
+              "projectPath": "C:\\Users\\simon\\Source\\Repos\\TwicePower.Homeate\\HomeAte\\Twicepower.Homeate.Contracts\\Twicepower.Homeate.Contracts.csproj"
             }
           }
         }
