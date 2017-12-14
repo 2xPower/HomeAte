@@ -45,5 +45,19 @@ namespace TwicePower.Homeate.Binding.Knx.Parsing
 
             return master;
         }
+
+        public static void GetFunctions(v13.KNX knx)
+        {
+        }
+
+        private static IEnumerable<T> SelectNested<T>(this T source, System.Func<T, T> selector) where T : class 
+        {
+            var current = source;
+            while (current != null) {
+                yield return current;
+            current = selector(current);
+        }
+}
+
     }
 }

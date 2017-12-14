@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using TwicePower.Homeate.Bidingin.Knx;
+using TwicePower.Homeate.Binding.Knx;
 using Xunit;
 
 namespace TwicePower.Homeate.Binding.Knx.Testing

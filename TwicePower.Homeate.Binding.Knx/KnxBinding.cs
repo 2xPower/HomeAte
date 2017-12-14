@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Twicepower.Homeate.Contracts;
 
-namespace TwicePower.Homeate.Bidingin.Knx
+namespace TwicePower.Homeate.Binding.Knx
 {
     public class KnxBinding : Twicepower.Homeate.Contracts.Binding
     {

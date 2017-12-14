@@ -7,9 +7,17 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/TwicePower.Homeate.Binding.Knx.Testing/TwicePower.Homeate.Binding.Knx.Testing.csproj"
+                "${workspaceFolder}/TwicePower.Homeate.sln"
             ],
             "problemMatcher": "$msCompile"
-        }
+        },
+        {
+            "taskName": "test",
+            "args": [ ],
+            "isTestCommand": true,
+            "showOutput": "always",
+            "problemMatcher": "$msCompile"
+          }
+      
     ]
 }

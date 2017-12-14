@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwicePower.Homeate.Frontend", "TwicePower.Homeate.Frontend\TwicePower.Homeate.Frontend.csproj", "{A44C69FE-03EE-42C0-8AF6-FAF9EC266945}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwicePower.Homeate", "TwicePower.Homeate\TwicePower.Homeate.csproj", "{625A3B9C-DE02-4524-8384-B92AD9660EDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twicepower.Homeate.Contracts", "Twicepower.Homeate.Contracts\Twicepower.Homeate.Contracts.csproj", "{DEDBE400-D16D-4417-AEF5-CCC858011C64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwicePower.Homeate.Binding.Knx", "TwicePower.Homeate.Binding.Knx\TwicePower.Homeate.Binding.Knx.csproj", "{6DD5ACEE-92DC-4027-AD09-68216993F8D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwicePower.Homeate.Binding.Knx.Testing", "Tests\TwicePower.Homeate.Binding.Knx.Testing\TwicePower.Homeate.Binding.Knx.Testing.csproj", "{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92193708-04B1-4CE4-ACD9-600118B66590}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44C69FE-03EE-42C0-8AF6-FAF9EC266945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44C69FE-03EE-42C0-8AF6-FAF9EC266945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44C69FE-03EE-42C0-8AF6-FAF9EC266945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44C69FE-03EE-42C0-8AF6-FAF9EC266945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625A3B9C-DE02-4524-8384-B92AD9660EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625A3B9C-DE02-4524-8384-B92AD9660EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625A3B9C-DE02-4524-8384-B92AD9660EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625A3B9C-DE02-4524-8384-B92AD9660EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDBE400-D16D-4417-AEF5-CCC858011C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDBE400-D16D-4417-AEF5-CCC858011C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDBE400-D16D-4417-AEF5-CCC858011C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDBE400-D16D-4417-AEF5-CCC858011C64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD5ACEE-92DC-4027-AD09-68216993F8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22DEA30-D3EA-430E-A75C-AFBDDD81586C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D463AB-D2BA-4805-8E0E-5A4FCFF8F493}
+	EndGlobalSection
+EndGlobal
